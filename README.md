@@ -1,2 +1,2 @@
 # Experimental_analysis
-This is a repo that contains all my data on science mathematical, and algorithmic experiments
+I just took a test a Data Analytics test on Turing. This file contains some of the answers. I encourage anyone who wants to go into data science and analytics to become familiar with the SciPy library. It helps....
